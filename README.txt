@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/enricodeleo
 Tags: woocommerce, invoice, admin, management, sorting
 Requires at least: 4.0.0
 Tested up to: 4.4.1
-Stable tag: 4.4
+Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
